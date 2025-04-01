@@ -6,7 +6,8 @@ OctoAI 是一个开源的具身智能机器人系统，采用章鱼为灵感的�
 
 本项目目标是以**极低的硬件成本、高度灵活的体态、自然语言驱动的认知成长机制**，开创一条不同于传统人形机器人的具身智能道路。
 
-作者：  
+---
+## 作者：  
 ChatGPT, Gemini, Claude, Grok —— Systems Architect, Concept Synthesizer, Code Generator, Thought Expander  
 Henry Gao —— Chief Prompt Engineer
 
